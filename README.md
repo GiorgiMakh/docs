@@ -17,4 +17,4 @@ This project is licensed under the GNU License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Thank you for using this backend server template! If you have any questions or need further assistance, feel free to reach out to us or open an issue on this repository. Happy coding!
+Thank you for using this libraries! If you have any questions or need further assistance, feel free to reach out to us or open an issue on this repository. Happy coding!
