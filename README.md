@@ -5,6 +5,7 @@ Media Share Links, ANSI Colors, and Screen Standard Resolutions are vital compon
 
 - [Media Share Links](https://github.com/GiorgiMakh/docs/blob/main/Media%20Share%20Links.md)
 - [ANSI Colors](https://github.com/GiorgiMakh/docs/blob/main/ANSCI%20Text%20Colors.md)
+- [Integer Colors](https://github.com/GiorgiMakh/docs/blob/main/Color%20Integers.md)
 - [Screen Standard Resolutions](https://github.com/GiorgiMakh/docs/blob/main/Screen%20Standard%20Resolutions.md)
 
 ## Contributing
