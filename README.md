@@ -19,3 +19,7 @@ This project is licensed under the GNU License. See the [LICENSE](LICENSE) file 
 ---
 
 Thank you for using this libraries! If you have any questions or need further assistance, feel free to reach out to us or open an issue on this repository. Happy coding!
+
+----
+
+ <p align="center"><a href='https://ko-fi.com/giorgimakh' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
