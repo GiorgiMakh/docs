@@ -7,10 +7,11 @@ Media Share Links, ANSI Colors, and Screen Standard Resolutions are vital compon
 - [ANSI Colors](https://github.com/GiorgiMakh/docs/blob/main/ANSCI%20Text%20Colors.md)
 - [Integer Colors](https://github.com/GiorgiMakh/docs/blob/main/Color%20Integers.md)
 - [Screen Standard Resolutions](https://github.com/GiorgiMakh/docs/blob/main/Screen%20Standard%20Resolutions.md)
+- [Package Json Structure](https://github.com/GiorgiMakh/docs/blob/main/Package%20Json%20Structure.md)
 
 ## Contributing
 
-If you find any issues with the server or want to contribute to its improvement, please submit a pull request. We welcome contributions from the community to make this docs even better.
+If you find any issues with the docs or want to contribute to its improvement, please submit a pull request. We welcome contributions from the community to make this docs even better.
 
 ## License
 
