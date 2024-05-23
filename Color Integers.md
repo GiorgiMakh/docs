@@ -4,7 +4,7 @@ In the world of computer graphics, colors are often represented by integers with
 
 Each primary color can have a value between 0 and 255, leading to (256 x 256 x 256 = 16,777,216) possible combinations. The integer value for a color is typically calculated by combining the values of these three components. For instance, a color represented by (R, G, B) can be converted to an integer using the formula:
 
-\[ \text{Color Integer} = (R \times 256^2) + (G \times 256) + B \]
+Color Integer = (R × 256²) + (G × 256) + B
 
 Here’s how it breaks down:
 
