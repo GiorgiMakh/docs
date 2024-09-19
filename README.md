@@ -8,6 +8,7 @@ Media Share Links, ANSI Colors, and Screen Standard Resolutions are vital compon
 - [Integer Colors](https://github.com/GiorgiMakh/docs/blob/main/Color%20Integers.md)
 - [Screen Standard Resolutions](https://github.com/GiorgiMakh/docs/blob/main/Screen%20Standard%20Resolutions.md)
 - [Package Json Structure](https://github.com/GiorgiMakh/docs/blob/main/Package%20Json%20Structure.md)
+- [Custom URL Schemes](https://github.com/GiorgiMakh/docs/blob/main/URL%20Schemes.md)
 
 ## Contributing
 
