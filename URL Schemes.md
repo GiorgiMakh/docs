@@ -17,7 +17,11 @@ Here are 21 popular custom URL schemes used by various apps across platforms:
    ```
 
 3. **Steam (`steam://`)**
-  - **Usage**: Opens Steam client to access games, a store page, or friends.
+  - **Usage**: Opens Steam client to access games, servers, a store page, or friends.
+  - **Example (Connect to a Server)**: 
+    ```plaintext 
+    steam://connect/IP_ADDRESS:PORT
+    ```
   - **Example**: 
     ```plaintext
     steam://rungameid/0
